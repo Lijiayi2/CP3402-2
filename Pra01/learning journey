@@ -1,0 +1,38 @@
+CP3402 Week 1 Reflection
+1. Learning Activities & Resources
+This week, I decided that my startup theme would be my own guitar studio.
+After that, I created a preliminary design for my website, which included three pages: home, about, and contact. 
+In fact, my expectation is to create five web pages, because there is also a classes section and a Buy section, in order to provide customers with more complete services.
+
+In this process, I initially reviewed the content of CP1406 from LearnJCU. 
+This involved a review of fundamental HTML file structure and the insertion of images. 
+Subsequently, I learned how to utilise CSS files to regulate HTML files from these sources. 
+The following are the materials and links I have consulted
+(some of which are Chinese websites, as my English proficiency is not particularly strong and I can comprehend them more effectively when reading Chinese).
+
+The following website offers a comprehensive introduction to CSS: https://www.runoob.com/html/html-css.html. 
+Another useful resource is https://www.w3school.com.cn/cssref/pr_background-size.asp, 
+which provides detailed information on background size.
+
+2. Estimated Hours
+In total, I probably spent at least seven hours on practical tasks this week.
+The time spent on this task was distributed as follows: approximately four hours were spent modifying my own web page, 
+while approximately three hours were spent browsing materials and studying.
+
+3. Content Insights: The Guitar Studio Theme
+I found this introduction to WordPress theme creation to be an excellent resource.
+It provided an overview of the underlying technologies, including WorldPress's use of PHP and MySQL,
+and its release under a GPLv2 license, which allows for free use, modification, and distribution. 
+Additionally, it introduced me to PHP, an open-source server-side scripting language that is widely used for server-side programming. 
+Originally designed for web development, PHP can also be used as a general-purpose programming language. PHP scripts are executed on the server to generate dynamic web content. 
+In general, the prerequisite for using these tools well is to have a working knowledge of HTML, JavaScript, and other related programming languages and technologies, 
+as these will still be used. After studying these, I feel that my self-learning ability has improved somewhat and I also clearly understand how to complete some projects.
+
+4. Career/Employability/Learning Insights
+Upon completion of the initial week of practice, I commenced the investigation of educational resources pertaining to guitar studios,
+sourced from online platforms such as YouTube and Bilibili. Prior to this, I anticipated that these resources would provide me with valuable insights and guidance. 
+I did, however, learn some things that I did not think I would have learned otherwise. 
+These included ideas for web pages and more advanced CSS writing techniques that I believe will be useful for creating more detailed websites in the future. 
+This approach has proven effective. From this strategy to this week's study, I have concluded that this way of learning is useful, 
+but I believe there are many parts that may be a waste of time. For instance, a video may be 30 minutes long, with only five minutes of content that may be of use. 
+Therefore, it would be prudent to devise solutions to problems as they arise, ensuring that they are targeted and efficient.
